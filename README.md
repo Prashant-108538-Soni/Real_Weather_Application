@@ -15,6 +15,7 @@ I generally used MVC pattern to code in this project. Seperate folders are creat
 Screenshots
 Splash Screen of the app...
 ![Splash_Screen](https://user-images.githubusercontent.com/90108900/222703704-bb75c1b5-7c0c-46fe-bcd9-972a9671f27a.jpeg)
+<img src='https://user-images.githubusercontent.com/90108900/222703704-bb75c1b5-7c0c-46fe-bcd9-972a9671f27a.jpeg' width='300' />
 
  Home Screen Opens with Favourite Location.....
 ![Home_Screen](https://user-images.githubusercontent.com/90108900/222703743-4156eed7-4c4c-4c65-a142-bc601eea4a74.jpeg)
