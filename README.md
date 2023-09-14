@@ -17,6 +17,7 @@ Screenshots
 
 Splash Screen of the app...
 ![Splash_Screen]
+<br>
 <img src='https://user-images.githubusercontent.com/90108900/222703704-bb75c1b5-7c0c-46fe-bcd9-972a9671f27a.jpeg' width='300' />
 
  Home Screen Opens with Favourite Location.....
