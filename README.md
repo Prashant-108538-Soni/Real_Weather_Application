@@ -25,25 +25,35 @@ Splash Screen of the app...
  Home Screen Opens with Favourite Location.....
 ![Home_Screen]
 <br>
+<br>
+<br>
 <img src='https://user-images.githubusercontent.com/90108900/222703743-4156eed7-4c4c-4c65-a142-bc601eea4a74.jpeg' width='300' />
 
 Current Weather shows on HomeScreen of App...
 ![Home_Screen(1)]
+<br>
+<br>
 <br>
 <img src='https://user-images.githubusercontent.com/90108900/222703750-1afe2205-698e-4213-b516-f1f4e9beb676.jpeg' width='300' />
 
 Search History Shows on Search Page
 ![History_Screen]
 <br>
+<br>
+<br>
 <img src='https://user-images.githubusercontent.com/90108900/222703765-4236f2ef-551a-46ed-8dda-db934ac271e3.jpeg' width='300' />
 
 Search Bar Screen...
 ![Search_Screen]
 <br>
+<br>
+<br>
 <img src='https://user-images.githubusercontent.com/90108900/222703781-2e924c27-5d10-4cd0-82e8-0f7a19a6c276.jpeg' width='300' />
 
 Favourite City Screen with bottom Dialog Box...
 ![Fav_Screen]
+<br>
+<br>
 <br>
 <img src='https://user-images.githubusercontent.com/90108900/222703790-3b5b3703-fdb2-4742-b481-aea29bfbac60.jpeg' width='300' />
 
