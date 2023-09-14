@@ -12,7 +12,7 @@ My application is build completely ceratin changes may be added in future to enh
 Code Style
 I generally used MVC pattern to code in this project. Seperate folders are created for seperate works like Provider , Services , Models , Screens..
 
-Screenshots
+<b>Screenshots</b>
 
 
 Splash Screen of the app...
