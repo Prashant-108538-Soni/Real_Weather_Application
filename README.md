@@ -13,6 +13,8 @@ Code Style
 I generally used MVC pattern to code in this project. Seperate folders are created for seperate works like Provider , Services , Models , Screens..
 
 Screenshots
+
+
 Splash Screen of the app...
 ![Splash_Screen]
 <img src='https://user-images.githubusercontent.com/90108900/222703704-bb75c1b5-7c0c-46fe-bcd9-972a9671f27a.jpeg' width='300' />
